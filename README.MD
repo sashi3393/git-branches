@@ -1,2 +1,1 @@
-This is a git branch file
-
+this is a git repository featuring branches
